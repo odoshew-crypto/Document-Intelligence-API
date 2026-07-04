@@ -4,5 +4,5 @@ python-multipart
 chroma_db
 sentence-transformers
 pypdf
-groq
+Groq
 python-dotenv

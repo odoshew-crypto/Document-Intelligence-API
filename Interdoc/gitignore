@@ -1,0 +1,6 @@
+.env
+interdoc
+__pycache__
+data
+scratch.py
+data/chroma_db

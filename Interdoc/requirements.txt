@@ -3,6 +3,7 @@ uvicorn[standard]
 python-multipart
 chromadb
 sentence-transformers
+torch==2.3.1
 pypdf
 groq
 python-dotenv

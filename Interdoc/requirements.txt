@@ -1,7 +1,7 @@
 fastapi[standard]
 uvicorn[standard]
 python-multipart
-chroma_db
+chromadb
 sentence-transformers
 pypdf
 groq
